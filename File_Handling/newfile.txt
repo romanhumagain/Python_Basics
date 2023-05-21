@@ -1,0 +1,1 @@
+I am creating a new file to write some content in itI am writing some content in the file.I am writing some content in the file.Using Append function in python
