@@ -9,3 +9,9 @@ print(str1[0: :2])
 
 # to print from backside
 print(str1[-1: :-1])
+
+myStr = "I read in PCPS College"
+
+print((myStr[0:12382]))  # this program will execute
+
+

@@ -21,6 +21,7 @@ print(newStr1)
 #  using string functions
 
 str1 = "My name is Roman Humagain and I am learning Python_Project(Basic)"
+str2 = "I am Mr. Roman Humagain"
 
 # to find the index of the string
 print(str1.find("n"))
@@ -37,3 +38,15 @@ print(str1.isdigit())
 
 # to know where the string contails only dight/character or not
 print(str1.isalnum())
+
+# to know whether the string ends with... or not
+print(str2.endswith("Humagain"))
+
+# to count the value of string
+print(str2.count("o"))
+
+# to replace the text with another
+print(str2.replace("Roman", "Roman Don"))
+
+
+
